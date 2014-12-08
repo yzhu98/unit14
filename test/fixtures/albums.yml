@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  pulisher: MyString
+  dateofpublication: 2014-12-07
+  language: MyString
+  singer: 
+
+two:
+  title: MyString
+  pulisher: MyString
+  dateofpublication: 2014-12-07
+  language: MyString
+  singer: 

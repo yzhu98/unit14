@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dateofcollection: 2014-12-07
+  album: 
+  song: 
+
+two:
+  dateofcollection: 2014-12-07
+  album: 
+  song: 
